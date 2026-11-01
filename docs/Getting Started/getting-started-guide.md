@@ -39,8 +39,7 @@ View [FAQ](FAQ.md).
 
 ## Images
 
-![logo](../images/Images.jpg)
-
+![logo]  
 Resizing the images
 
 <img src="../images/Images.jpg" width="200" height="100" />
