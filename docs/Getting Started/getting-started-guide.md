@@ -1,9 +1,45 @@
-# Heading 1
+# Elements of Earth
 
-This is my **paragraph** and I will talking about Nature. So What is Nature? Nature is the physical world and all living and non-living things that occur naturally on Earth, without human creation. So What is Nature? Nature is the physical world and all living and non-living things that occur naturally on Earth, without human creation. So What is Nature? Nature is the physical world and all living and non-living things that occur naturally on Earth, without human creation.   
+The classical elements typically refer to earth, water, fire, air, and (later) aether which were proposed to explain the nature and complexity of all matter in terms of simpler substances.   
 
-Another paragraph. To save the file, press `ctrl +S`.   
+## Classical Elements   
 
+In ancient traditions, **Earth** is part of a foundational system used to describe the nature of matter and life.
+**The Five Elements are**- *Earth, Water,Fire, Air, and Ether (Space/Sky)*.   
+
+## Lets Deep Dive into Each Element
+
+The following lists the characteristics of each elements on earth:
+
+**EARTH**
+
+- Core Qualities: 
+  - Solid, 
+  - heavy, 
+  - stable, and
+  - rigid.
+
+**Water**
+
+- Core Qualities:
+  - Fluid,
+  - cool,
+  - cohesive, and
+  - cleansing.   
+
+**Fire**
+
+- Core Qualities:
+  - Hot,
+  - light,
+  - sharp, and
+  - transformative.
+
+
+>**NOTE:** Fire drives transformation, chemical reactions, intelligence, and the power of perception.   
+
+
+For more information related to classical elements, [visit](https://en.wikipedia.org/wiki/Classical_element).   
 
 
 ## List 
