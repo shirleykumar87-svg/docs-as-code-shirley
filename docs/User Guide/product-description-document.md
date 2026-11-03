@@ -16,7 +16,7 @@ Voice Share(Voice) employs multi-device; live content sharing technology, custom
 
 
  
-![Image]"../img/voicecallingimg.png   
+![Image](/static/img/voicecallingimg.png)
 
 
 
