@@ -12,15 +12,4 @@ Voice Share(Voice) employs multi-device; live content sharing technology, custom
   
 | Market | Our Solution | Feature and Capabilities |    
 | :---: | --- | --- |
-|Leveraging digital content in voice calls | Voice Share can be extended for sales and/or service use cases by integrating it with the right content source or packaging the right content into the solution. | • Solution extensible with business specific content and apps. <br> • Visual log of interactions <br> • Sharing of log after the call. <br> • Out of the box reports on content/app usage. |   
-
-
- 
-![Image](/static/img/voicecallingimg.png)
-
-
-
-<img static= "../" width="200" height="100" />
-
-
-
+|Leveraging digital content in voice calls | Voice Share can be extended for sales and/or service use cases by integrating it with the right content source or packaging the right content into the solution. | • Solution extensible with business specific content and apps. • Visual log of interactions • Sharing of log after the call. • Out of the box reports on content/app usage. |   
