@@ -7,8 +7,3 @@ Voice Share(Voice) employs multi-device; live content sharing technology, custom
 - Initiate an online session with the caller.
 - Share content and apps over a wide range of customer smartphones, tablets, and desktops—during the call and/or at the end of it (no downloads required).
 - Save time while disposing the calls in CRM, using the summary auto-generated in Voice Share.
->**NOTE:** Collaboratively tag the customer and their journey to feed a machine learning loop, which in turn generates call advice for the agents.   
-  
-| Market | Our Solution | Feature and Capabilities |    
-| :---: | --- | --- |
-|Leveraging digital content in voice calls | Voice Share can be extended for sales and/or service use cases by integrating it with the right content source or packaging the right content into the solution. | • Solution extensible with business specific content and apps. • Visual log of interactions • Sharing of log after the call. • Out of the box reports on content/app usage. |   
